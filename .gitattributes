@@ -1,0 +1,2 @@
+/home/hungdvlper/Documents/Computer_Vision/Assignment-2/cifar10_data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+cifar10_data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
