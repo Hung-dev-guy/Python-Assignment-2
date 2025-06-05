@@ -1,0 +1,5 @@
+========= Accuracies Report =========
+========================================
+- Final Accuracy on Training Set: 39.36%
+- Final Accuracy on Validation Set: 39.48%
+- Final Accuracy on Test Set: 39.44%
